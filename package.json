@@ -1,7 +1,7 @@
 {
-  "name": "Putbotz",
+  "name": "Herman-Botz",
   "version": "1",
-  "description": "Made By ©Putbotz",
+  "description": "Jangan Spam Ya",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -74,7 +74,8 @@
     "url-regex": "^5.0.0",
     "warn": "^1.0.1",
     "xmldom": "^0.5.0",
-    "yargs": "^16.2.0"
+    "yargs": "^16.2.0",
+    "yt-search": "^2.7.6"
   },
   "nodemonConfig": {
     "ignore": [
