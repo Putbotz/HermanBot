@@ -34,7 +34,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 }
 handler.help = ['downloadermenu']
 handler.tags = ['smenu']
-handler.command = /^(downloadermenu)$/i
+handler.command = /^(downloadmenu)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
