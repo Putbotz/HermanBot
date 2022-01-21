@@ -51,7 +51,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣➥ *Raku Gans*
 ┣➥ *Layscode*
 ┣➥ *Zeks*
-┣➥ *Dll
+┣➥ *Putbotz*
+┣➥ *Dll*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
     let mentionedJid = [who]
