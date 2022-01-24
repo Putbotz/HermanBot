@@ -365,7 +365,7 @@ Halo %name 👋 Saya *Put Botz*
 
     externalAdReply: {
 
-                    title: `Herman Botz`,
+                    title: `Putbotz`,
 
                     body: `${ucapanWaktu} ${name}`,
 
